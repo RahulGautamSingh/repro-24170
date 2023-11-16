@@ -1,14 +1,6 @@
 {
   "packageRules": [
     {
-      "matchSourceUrls": ["https://github.com/chalk/chalk"],
-      "labels": ["oldies"]
-    },
-     {
-      "matchSourceUrls": ["https://github.com/remy/nodemon"],
-      "labels": ["newbies"]
-    },
-    {
       "matchCurrentAge": "> 1 year",
       "labels": ["age-new"]
     },
