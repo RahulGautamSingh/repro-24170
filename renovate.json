@@ -1,0 +1,13 @@
+{
+  "packageRules": [
+    {
+      "matchSourceUrls": ["https://github.com/chalk/chalk"],
+      "labels": ["oldies"]
+    },
+     {
+      "matchSourceUrls": ["https://github.com/remy/nodemon"],
+      "labels": ["newbies"]
+    }
+  ],
+  "prHourlyLimit": 10
+}
