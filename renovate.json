@@ -1,13 +1,3 @@
 {
-  "packageRules": [
-    {
-      "matchCurrentAge": "> 1 year",
-      "labels": ["age-new"]
-    },
-    {
-     "matchCurrentAge": "< 1 year",
-      "labels": ["age-old"]
-    }
-  ],
   "prHourlyLimit": 10
 }
