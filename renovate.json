@@ -1,4 +1,4 @@
 {
   "prHourlyLimit": 10,
-  "labels": "wrong-should-be-an-string-array"
+  "labels": "wrong-should-be-an-array"
 }
